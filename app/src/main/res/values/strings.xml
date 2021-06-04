@@ -1,0 +1,47 @@
+<resources>
+    <!-- FACEBOOK -->
+    <string name="facebook_app_id">351314819122579</string>
+    <string name="fb_login_protocol_scheme">fb351314819122579</string>
+
+    <string name="app_name">Quick Eye</string>
+    <string name="level_passed">Level passed!</string>
+    <string name="restart">Restart</string>
+    <string name="next">Next</string>
+    <string name="menu">Menu</string>
+    <string name="you_won">You won!</string>
+    <string name="enter_your_name">Enter your name or use default:</string>
+    <string name="name">Name</string>
+    <string name="ok">OK</string>
+    <string name="results">RESULTS</string>
+    <string name="challenge">Do it!</string>
+    <string name="play">play</string>
+    <string name="score_0">SCORE</string>
+    <string name="settings">SETTINGS</string>
+    <string name="pre_game_title">Before you start</string>
+    <string name="pre_game_set">If you want to play this mode you have to
+        sign up with your Google account
+    </string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="flips_0">Flips:</string>
+    <string name="points_0">Points:</string>
+    <string name="lvl">Level</string>
+    <string name="complexity">Complexity</string>
+    <string name="theme">Theme</string>
+    <string name="matched_text1">MATCHED!</string>
+    <string name="matched_text2">flips</string>
+    <string name="matched_text3">points</string>
+    <string name="menu_phone">Phone</string>
+    <string name="menu_local">Network</string>
+    <string name="menu_user">Profile</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_out">Sign out</string>
+    <string name="change_name">Change nickname</string>
+    <string name="create">Create</string>
+    <string name="all_users_title">ALL USERS</string>
+    <string name="animals">Animals</string>
+    <string name="cars">Cars</string>
+    <string name="Food">Food</string>
+    <string name="Random">Random</string>
+</resources>
